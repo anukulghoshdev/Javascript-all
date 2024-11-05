@@ -27,3 +27,4 @@ console.log(something);
 
 
 
+git remote set-url origin git@github.com:eurydyce/MDANSE.git
